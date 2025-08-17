@@ -19,7 +19,7 @@ Aplicación web desarrollada con **React + Vite** que permite buscar un perfil d
 
 ## 📸 Capturas
 
-![alt text](./src/assets/image.png) ![alt text](./src/assets/image-1.png)
+![alt text](./src/assets/image-1.png)
 
 ## 🛠️ Tecnologías utilizadas
 
