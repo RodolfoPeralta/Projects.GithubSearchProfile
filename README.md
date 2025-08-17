@@ -12,7 +12,7 @@ Aplicación web desarrollada con **React + Vite** que permite buscar un perfil d
   - Ubicación
   - Biografía
   - Seguidores y seguidos
-  
+
 - Listado de repositorios públicos con:
   - Nombre
   - Estrellas 
@@ -21,7 +21,7 @@ Aplicación web desarrollada con **React + Vite** que permite buscar un perfil d
 
 ## 📸 Capturas
 
-![alt text](./src/assets/image-1.png)
+<img src="./src/assets/image-1.png" alt="alt text" width="200"/>
 
 ## 🛠️ Tecnologías utilizadas
 
