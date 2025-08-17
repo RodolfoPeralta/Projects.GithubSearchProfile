@@ -5,12 +5,14 @@ Aplicación web desarrollada con **React + Vite** que permite buscar un perfil d
 ## ✨ Características
 
 - Búsqueda de un usuario de GitHub ingresando su **username**.
+
 - Información del perfil:
   - Avatar
   - Nombre de usuario
   - Ubicación
   - Biografía
   - Seguidores y seguidos
+  
 - Listado de repositorios públicos con:
   - Nombre
   - Estrellas 
